@@ -8,16 +8,11 @@ We take security vulnerabilities seriously. Thank you for helping to keep cuioss
 
 **Please do NOT create public GitHub issues for security vulnerabilities.**
 
-Instead, use one of these methods:
+Report vulnerabilities privately through **GitHub's Private Vulnerability Reporting**:
 
-1. **GitHub's Private Vulnerability Reporting** (Preferred)
-   - Go to the **Security** tab of the affected repository
-   - Click **"Report a vulnerability"**
-   - Fill in the vulnerability details
-
-2. **Email**
-   - Send details to: **security@cuioss.de**
-   - Include: affected project, description, reproduction steps, impact assessment
+- Go to the **Security** tab of the affected repository
+- Click **"Report a vulnerability"**
+- Fill in the vulnerability details
 
 ### What to Include
 
