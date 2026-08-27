@@ -8,7 +8,7 @@ We take security vulnerabilities seriously. Thank you for helping to keep cuioss
 
 **Please do NOT create public GitHub issues for security vulnerabilities.**
 
-Report vulnerabilities privately through **GitHub's Private Vulnerability Reporting**:
+Report vulnerabilities privately through **[GitHub's Private Vulnerability Reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)**:
 
 - Go to the **Security** tab of the affected repository
 - Click **"Report a vulnerability"**
